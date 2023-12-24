@@ -1,0 +1,17 @@
+{
+  "name": "discord-rating-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot with a slash command for rating and reviewing.",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "author": "Wick",
+  "license": "MIT",
+  "dependencies": {
+      "@discordjs/builders": "^1.6.5",
+      "@discordjs/rest": "^2.0.1",
+      "discord-api-types": "^0.37.56",
+      "discord.js": "^13.3.1"
+  }
+}
